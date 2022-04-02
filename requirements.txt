@@ -1,3 +1,4 @@
 Sphinx
 jupyter
 myst-nb
+pandas
